@@ -1,0 +1,11 @@
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\bin\Debug\net8.0\VisiotechSystemMonitorLib.deps.json
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\bin\Debug\net8.0\VisiotechSystemMonitorLib.dll
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\bin\Debug\net8.0\VisiotechSystemMonitorLib.pdb
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\obj\Debug\net8.0\VisiotechSystemMonitorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\obj\Debug\net8.0\VisiotechSystemMonitorLib.AssemblyInfoInputs.cache
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\obj\Debug\net8.0\VisiotechSystemMonitorLib.AssemblyInfo.cs
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\obj\Debug\net8.0\VisiotechSystemMonitorLib.csproj.CoreCompileInputs.cache
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\obj\Debug\net8.0\VisiotechSystemMonitorLib.dll
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\obj\Debug\net8.0\refint\VisiotechSystemMonitorLib.dll
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\obj\Debug\net8.0\VisiotechSystemMonitorLib.pdb
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\obj\Debug\net8.0\ref\VisiotechSystemMonitorLib.dll

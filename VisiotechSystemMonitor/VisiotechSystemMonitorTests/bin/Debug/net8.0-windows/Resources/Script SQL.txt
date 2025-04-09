@@ -1,0 +1,23 @@
+-- Crear la base de datos (solo si no existe)
+IF NOT EXISTS (SELECT * FROM sys.databases WHERE name = 'VisiotechMonitor')
+BEGIN
+    CREATE DATABASE VisiotechMonitor;
+END
+
+GO
+USE VisiotechMonitor;
+GO
+-- Crear la tabla Samples (solo si no existe)
+IF OBJECT_ID('dbo.Samples', 'U') IS NULL 
+BEGIN 
+    CREATE TABLE dbo.Samples ( 
+        ID identity(1, 1) primary key,
+        Timestamp DATETIME NOT NULL,
+        ProcessorID NVARCHAR(100) NOT NULL,
+        MotherboardID NVARCHAR(100) NOT NULL,
+        GPUID NVARCHAR(100) NOT NULL,
+        CPUUsage FLOAT NOT NULL,
+        RamUsage FLOAT NOT NULL
+    );
+END
+GO

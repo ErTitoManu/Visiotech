@@ -1,0 +1,16 @@
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\bin\Debug\net8.0-windows\VisiotechSystemMonitorLib.deps.json
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\bin\Debug\net8.0-windows\VisiotechSystemMonitorLib.dll
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\bin\Debug\net8.0-windows\VisiotechSystemMonitorLib.pdb
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\bin\Debug\net8.0-windows\Visiotech.HardwareInfo.dll
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\obj\Debug\net8.0-windows\VisiotechSystemMonitorLib.csproj.AssemblyReference.cache
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\obj\Debug\net8.0-windows\VisiotechSystemMonitorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\obj\Debug\net8.0-windows\VisiotechSystemMonitorLib.AssemblyInfoInputs.cache
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\obj\Debug\net8.0-windows\VisiotechSystemMonitorLib.AssemblyInfo.cs
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\obj\Debug\net8.0-windows\VisiotechSystemMonitorLib.csproj.CoreCompileInputs.cache
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\obj\Debug\net8.0-windows\Visiotec.C640A474.Up2Date
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\obj\Debug\net8.0-windows\VisiotechSystemMonitorLib.dll
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\obj\Debug\net8.0-windows\refint\VisiotechSystemMonitorLib.dll
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\obj\Debug\net8.0-windows\VisiotechSystemMonitorLib.pdb
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\obj\Debug\net8.0-windows\ref\VisiotechSystemMonitorLib.dll
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\bin\Debug\net8.0-windows\Resources\Script SQL.txt
+C:\Users\ertit\Documents\Github\Visiotech\VisiotechSystemMonitor\VisiotechSystemMonitorLib\bin\Debug\net8.0-windows\Resources\Visiotech.HardwareInfo.dll
